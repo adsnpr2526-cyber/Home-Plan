@@ -1,0 +1,6 @@
+{
+  "name": "PlanDraft AI - สเก็ตช์สู่แบบแปลนสถาปัตยกรรมฉบับสมบูรณ์",
+  "description": "แปลงภาพสเก็ตช์ลายเส้นวาดมือเป็นแบบแปลนพื้นฉบับสมบูรณ์ (2D CAD, สัญลักษณ์ประตูหน้าต่าง, บอกระยะมิติ, แปลน 3 มิติ และส่งออก DXF/SVG)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
